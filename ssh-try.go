@@ -1,4 +1,9 @@
 /*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
+/*
 Attempt to achieve a simmilar effect as the following:
 ```
  $ ssh -T tripledogdare.github.com

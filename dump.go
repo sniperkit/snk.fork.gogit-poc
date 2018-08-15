@@ -1,4 +1,9 @@
 /*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
+/*
 	The is a POC of dumping a particular commit to a directory
 */
 package main
